@@ -1,0 +1,23 @@
+{
+  "name": "blogServer",
+  "version": "0.0.1",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sergio Fco. Alcázar Ríos",
+  "license": "BSD",
+  "dependencies": {
+    "auth": "0.0.9",
+    "body-parser": "^1.16.1",
+    "cors": "^2.8.1",
+    "express": "^4.14.1",
+    "hapi": "^16.1.0",
+    "jwt-simple": "^0.5.1",
+    "method-override": "^2.3.7",
+    "middleware": "^1.0.0",
+    "moment": "^2.17.1",
+    "mongoose": "^4.8.1"
+  }
+}
